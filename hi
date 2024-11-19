@@ -1,0 +1,40 @@
+<head>
+<style>
+input.MyButton {
+width: 540px;
+height: 90px;
+padding: 30px;
+cursor: pointer;
+font-weight: bold;
+font-size: 150%;
+background: #00bfff;
+color: #fff;
+border: 1px solid #3366cc;
+border-radius: 10px;
+}
+input.MyButton:hover {
+color: #ffff00;
+background: #000;
+border: 1px solid #fff;
+}
+</style>
+</head>
+
+
+<form>
+<input class="MyButton" type="button" value="Play Anime Defenders" onclick="window.location.href='robloxmobile://placeID=17017769292'" />
+</form>
+
+<form>
+<input class="MyButton" type="button" value="Play Blox Fruit" onclick="window.location.href='robloxmobile://placeID=2753915549'" />
+</form>
+
+<form>
+<input class="MyButton" type="button" value="Play Anime Vanguards" onclick="window.location.href='robloxmobile://placeID=16146832113'" />
+</form>
+
+  <form>
+<input class="MyButton" type="button" value="Play Anime Vanguards" onclick="window.location.href='robloxmobile://placeID=89438510123061'" />
+</form>
+
+  <br><p><b>SV TO MINH PHUOC</b></p>
